@@ -1,0 +1,178 @@
+/*************LOGIN**************/
+#legend_login,#legend_forget
+{
+	background-color:#EBEBFF;
+	border-style:solid;
+	border-radius: 5px;
+	border-width: 1px;
+	padding: 3px;
+	font: bold;
+	font-weight:  bold;
+}
+#fieldset_login
+{
+	width:380px;
+	border-radius: 9px;
+	border-style:solid;
+	border-color:black;
+	border-width: 3px;
+	background-color:#ADD8E6;
+	text-align: left;
+	margin-top:230;
+	padding: 15px;
+}
+#div2
+{
+	margin-top : 3px;
+}
+#div3
+{
+	margin-top : 10px;
+}
+#div4
+{
+	margin-top : 40px;
+}
+#hidediv1,#hidediv2
+{
+	margin-top : 5px;
+	font-weight: bold;
+}
+.hidespan
+{
+	color: red;
+	font-size: 14px;
+	/* float: right; */
+	margin-left:31%;
+}
+#text_login
+{
+	width: 70%;
+	/* height: 150px; */
+    /* width: 150px; */
+    float: right;
+}
+#password_login
+{
+	width: 70%;
+	/* height: 150px; */
+    /* width: 150px; */
+	/* margin-right: 60px; */
+    float: right;
+}
+#button_login
+{
+	float: right;
+	font-weight: bold;
+}
+#a1
+{
+	/* float: right; */
+	margin-left: 145px;
+}
+#a2
+{
+	float: right;
+}
+.inp
+{
+	border-color:red;
+	border-width: 1px;
+}
+/************SIGNUP***********/
+#legend_signup
+{
+	font:bold;
+	background-color:#EBEBFF;
+	border-style:solid;
+	border-radius: 5px;
+	border-width: 1px;
+	padding: 3px;
+}
+#fieldset_signup
+{
+	width:560px;
+	border-style:solid;
+	border-width: 1px;
+	border-color:black;
+	border-radius: 8px;
+	text-align: left;
+	margin-top:210;
+	padding: 15px;
+}
+.s_input
+{
+	width: 350px;
+	float: right;
+}
+.normaldiv
+{
+	margin-top : 10px;
+}
+.anormaldiv
+{
+	margin-top : 23px;
+}
+.normalspan
+{
+	display:none;
+}
+.anormalspan
+{
+	display: block;
+	font-size: 14px;
+	color: red;
+	float: right;
+	font-weight: bold;
+}
+#hspan2{
+	margin-right: 112px;
+}
+#hspan3{
+	margin-right: 112px;
+}
+#hspan4{
+	margin-right: 90px;
+}
+#sdiv7
+{
+	margin-top : 40px;
+}
+#button_signup
+{
+	float: right;
+	font-weight: bold;
+}
+.inp::placeholder {
+    color: red;
+    opacity: 1;
+}
+.hideclass{
+	display: none;
+}
+
+/**********Forget********/
+#fieldset_forget
+{
+
+	width:350px;
+	border-radius: 8px;
+	border-style:solid;
+	border-color:black;
+	border-width: 1px;
+	background-color:#DEB887;
+	margin-top: 220px;
+	text-align: left;
+}
+#span_forget
+{
+	float: left;
+}
+#email_forget{
+	float: right;
+	width: 300px;
+}
+#button_forget{float:right;}
+#div2_forget{
+	margin-top: 27px;
+}

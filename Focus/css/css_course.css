@@ -1,0 +1,136 @@
+section{
+	margin-top: 90px;
+}
+fieldset{
+	margin-left: 25px;
+	height: auto;
+	width: 1280px;
+	background-color: white;
+}
+fieldset legend{
+	border-style:solid;
+	border-radius: 5px;
+	border-width: 1px;
+	background-color: white;
+	padding: 5px;
+	font-family: FreeMono, monospace; 
+	font-weight: bold;
+	margin-left: 10px;
+	cursor: pointer;
+}
+span{
+	font-family: FreeMono, monospace; 
+	margin-left: 15px;
+}
+textarea{
+	vertical-align: top;
+	resize: none;
+	height: 80px;
+	width: 1060px;
+	font-size: 016px;
+}
+#section_spn{
+	margin-left: 140px;
+	color: blue;
+	cursor: pointer;
+}
+#input_section_default{
+	height: 20px;
+	width: 922px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+#input_section_m10{
+	height: 20px;
+	width: 922px;
+	margin-top: 15px;
+	margin-left: 19px;
+}
+#input_section_p10{
+	height: 20px;
+	width: 921px;
+	margin-top: 15px;
+	margin-left: 10px;
+}
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.bare_course{
+
+}
+#input_title{
+	margin-bottom: 10px;
+	height: 20px;
+	width: 1062px;
+}
+.hide{
+	display: none;
+}
+#title_spn{
+	margin-right: 70px;
+}
+#description_spn{
+	margin-right: 17px;
+}
+#div1{
+	margin-bottom: 5px;
+}
+#div3{
+}
+#save_chap{
+	width: 130px;
+	height: 30px;
+	border: 2px ;
+	color: white;
+	background-color: #036087;
+	border-color: grey;
+	border-style: solid;
+	outline: none;
+	font-size: 20px;
+	margin-left: 1070px;
+	cursor: pointer;
+}
+#title_legend{
+	width: 600px;
+	text-align: center;
+	margin-bottom: 20px;
+	font-family: FreeMono, monospace; 
+	background-color: white;
+	color: black;
+	border-color: grey;
+	font-size: 20px;
+}
+#img_add{
+	position: absolute;
+	display : inline-block;
+	height: 30px;
+	width: 30px;
+	float: right;
+	margin-top: 10px;
+	margin-left : 10px;
+	cursor: pointer;
+}
+#img_dlt{
+	position: absolute;
+	display : inline-block;
+	height: 30px;
+	width: 30px;
+	float: right;
+	margin-top: 10px;
+	margin-left: 45px;
+	cursor: pointer;
+}
+#div_section{
+	display : inline-block;
+}
+.after10{
+	height: 20px;
+	width: 926px;
+	margin-top: 15px;
+	margin-left: 15px;	
+}

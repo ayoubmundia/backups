@@ -1,0 +1,94 @@
+#courseid{
+	display: none;
+}
+.us_sec{
+	margin-top: 80px;
+}
+.course_id{
+	position: absolute;
+	right: 0;
+	left: 0;
+	background-color: white;
+	height: 200px;
+	border-bottom-style: solid;
+	width: 1320px;
+}
+#img_course{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	margin-right: 5px;
+}
+#div_img{
+	float: left;
+}
+#ed_course{
+	position: absolute;
+	margin-left: 957px;
+	width: 160px;
+	height: 50px;
+	border: 2px ;
+	color: white;
+	background-color: #036087;
+	border-color: white;
+	border-style: solid;
+	outline: none;
+	font-size: 18px;
+	margin-right: 5px;
+	margin-top: -20px;
+	cursor: pointer;
+}
+#dt_course{
+	position: absolute;
+	margin-left: 780px;
+	width: 160px;
+	height: 50px;
+	border: 2px ;
+	color: white;
+	background-color: #036087;
+	border-color: white;
+	border-style: solid;
+	outline: none;
+	font-size: 18px;
+	margin-right: 180px;
+	margin-top: -20px;
+	cursor: pointer;
+}
+#dt_course:hover{
+	background-color: #B40404;
+}
+#vr_course{
+	position: absolute;
+	margin-left: 600px;
+	width: 160px;
+	height: 50px;
+	border: 2px ;
+	color: white;
+	background-color: #036087;
+	border-color: white;
+	border-style: solid;
+	outline: none;
+	font-size: 18px;
+	margin-right: 180px;
+	margin-top: -20px;
+	cursor: pointer;
+}
+#vr_course:hover{
+	background-color: #B40404;
+}
+
+h1{
+	font-family: Tahoma, Geneva, sans-serif;
+}
+span{
+	margin-left: 3px;
+	font-weight: bold;
+	
+}
+p{
+	font-family: Tahoma, Geneva, sans-serif;
+	/*font-family: 'Courier New', Courier, monospace;*/
+	font-weight: bold;
+	font-size: 16px;
+	text-indent: 3px;
+}

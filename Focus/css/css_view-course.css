@@ -1,0 +1,72 @@
+.section_data_course{
+	position: absolute;
+	right: 0;
+	left: 0;
+	margin-top: 72px;
+	width: 100%;
+	height: 400px;
+	background-image: url('../img/rev-slider-background-light-blue.jpg');
+}
+h1{
+	margin-top: 25px;
+	font-size: 35px;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+#btn_started{
+	margin-top: -15px;;
+}
+.spn{
+	margin-top: 40px;
+}
+.section_data_prof{
+	position: absolute;
+	right: 0;
+	left: 0;
+	width: 100%;
+	height: auto;
+	margin-top: 472px;
+}
+.habobont{
+	height: auto;
+}
+.content_div{
+	position: absolute;
+	left: 0;
+	margin-left: 3px;
+	float: left;
+	width: 70%;
+	height: auto;
+	background-color: #F2F2F2;
+
+	border-right-style: groove;
+}
+.prof_div{
+	position: absolute;
+	right: 0;
+	float: right;
+	width: 30%;
+	height: auto;
+	background-color: white;
+	border-left-style: groove;
+	margin : 0;
+}
+#content_btn{
+	float: left;
+	width: 100%;
+	background-color: #F2F2F2;
+	color: black;
+	border:none;
+	outline: none;
+	font-size: 20px;
+}
+#prof_btn{
+	float: right;
+	font-size: 20px;
+	width: 100%;
+	background-color: white;
+	border:none;
+	outline: none;
+}

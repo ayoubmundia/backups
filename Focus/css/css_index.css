@@ -1,0 +1,53 @@
+#home_section{
+	position: absolute;
+	right: 0;
+	left: 0;
+	width: 100%;
+	height: 500px;
+	margin:70px auto ;
+	background-image: url('../img/bigstock-E-learning-Concept-With-Man-Ho-122838206.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#home_section_p{
+	margin-left : 30px;
+	margin-top : 30px;
+	width: 450px;
+	height: 450px;
+	text-align: center;
+	background: rgba(0, 0, 0, 0.5);
+}
+footer{
+	position: absolute;
+	bottom: 0;
+}
+h1{
+	color: white;
+}
+#get_started{
+	margin-top: 300px; 
+	width: 200px;
+	height: 50px;
+	border: none; 
+	color: white;
+	background-color: green;
+	outline: none;
+	font-size: 20px;
+	cursor: pointer;
+}
+.hide{
+	display: none;
+}
+.nohide{
+	display: block;
+}
+p{
+	margin-top: -250px;
+	color: white;
+	font-size: 30px;
+
+}
+h1{
+	color: white;
+	font-size: 35px;
+}

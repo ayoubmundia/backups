@@ -1,0 +1,33 @@
+.course_section{
+	background-color: #E6E6E6;
+	width: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	height: 500px;
+	margin-top: 72px;
+}
+.comment_section{
+	background-color: white;
+	width: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	height: auto;
+	margin-top: 570px;
+}
+.course_div{
+	position: absolute;
+	left: 0;
+	float: left;
+	width: 65%;
+	height: 100%;
+}
+.courses_div{
+	position: absolute;
+	right: 0;
+	top: 0;
+	float: right;
+	width: 35%;
+	height: 100%;
+}

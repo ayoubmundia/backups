@@ -1,0 +1,71 @@
+body
+{
+	background-color:#2c3338;
+	margin-top: 15%;
+	margin-left :37%;
+}
+td
+{
+	padding:5px;
+	width: 240px;
+}
+img
+{
+	background-color:#4f5358;
+	width:30px;
+	height:30px;
+	padding:10px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border:none;
+}
+input[name=Login],input[name=Signup]
+{
+	background-color:#3b9a9a;
+	/*background-color:#ea4c88;*/
+	border:none;
+	width:147%;
+	height:50px;
+	padding:10px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	color:white;
+	border:none;
+	font-weight: bold;
+}
+input[type=text],input[type=password]
+{
+	background-color:#3b4148;
+	border:none;
+	width:160%;
+	height:50px;
+	padding:10px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.Align
+{
+	margin-right: 0px;
+	float: left;
+}
+#s2
+{
+	background-color: transparent;
+	border:none;
+	color : white;
+	margin-right: 60px;
+	font-size: 17px;
+}
+#s1
+{
+	
+	
+}
+.hide{
+	display: none;
+}
+.nohide{
+	display: block;
+}

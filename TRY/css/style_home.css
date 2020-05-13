@@ -1,0 +1,75 @@
+body{
+	background-color: white;
+}
+header{
+	background-color: white;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	width: 100%;
+	height: 75px;
+	box-shadow: 2px 3px 2px grey;
+}
+#input_search{
+	position: absolute;
+	top: 0;
+	width: 70%;
+	height: 70%;
+	margin-left: 15px;
+	margin-top: 10px;
+	border-color: #3b9a9a;
+	border-radius: 15px;
+	border-style: solid;
+	font-size: 20px;
+	text-indent: 10px;
+	outline: none;
+}
+#btn_signup{
+	position: absolute;
+	right: 0;
+	margin-top: 10px;
+	width: 10%;
+	height: 80%;
+	margin-right: 15px;
+	border: 2px  ;
+	color: #3b9a9a;
+	background-color: white;
+	border-color: #3b9a9a;
+	border-style: solid;
+	border-radius: 15px;
+	outline: none;
+	font-size: 18px;
+}
+#btn_signup:hover{
+	background-color: #3b9a9a;
+	color: white;
+}
+#icon_site{
+	margin-top: 2px;
+	margin-left: 10px;
+	height: 96%;
+	width: 15%;
+	/*left: 0;*/
+}
+#select_list{
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 10%;
+	height: 80%;
+	margin-top: 8px;
+	margin-right: 10px;
+	border: 2px  ;
+	color: #3b9a9a;
+	background-color: white;
+	border-color: #3b9a9a;
+	outline: none;
+	font-size: 20px;
+}
+.hide{
+	display: none;
+}
+.nohide{
+	display: block;
+}
